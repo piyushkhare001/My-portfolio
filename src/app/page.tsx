@@ -198,7 +198,7 @@ export default function Home() {
           Hey there, 👋 I am Piyush a 20-year-old Computer Science graduate, who is passionate about Software Development, UI/UX Developement, and Full stack apps. Currently, I am pursuing my career as a Full Stack Web Developer 💻 with 3+ months of professional and freelance experience. I share my learnings through speaking engagements and write-ups. ✍️
         </p>
         {/* Resume Button */}
-         <a href="/resume.pdf" download>
+         <a href="/Resume.pdf" download>
         <button className="bg-gradient-to-r mt-8 max-sm:ml-14 from-purple-500 to-indigo-500 hover:from-indigo-600 hover:to-purple-600 text-white font-semibold py-2 px-6 rounded-lg flex items-center gap-2 shadow-lg transition-transform transform hover:scale-105">
           <span>Resume</span>
           <AiOutlineFileText className="text-xl" />
